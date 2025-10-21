@@ -1,7 +1,7 @@
 # Responsive Dashboard App - Lab 4
 ## Student Information
-- **Name:** [Your Full Name]
-- **Student ID:** [Your ID]
+- **Name:** [Hassan Ali]
+- **Student ID:** [n01728997]
 - **Course:** CPAN 213
 - **Lab:** Lab 4 - Responsive Layouts with Flexbox
 - **Date:** September 23, 2025
